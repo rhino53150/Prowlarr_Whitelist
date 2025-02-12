@@ -1,1 +1,1 @@
-# Prowlar_Whitelist
+# Prowlarr_Whitelist
